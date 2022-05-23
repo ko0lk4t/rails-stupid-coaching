@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+#answerblock{
+  background-color: lightgoldenrodyellow;
+}
+
+.link {
+  text-decoration: none;
+}
